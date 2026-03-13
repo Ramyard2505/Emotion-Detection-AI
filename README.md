@@ -60,7 +60,7 @@ Emotion-Detection-AI
 ### 1 Clone the Repository
 
 ```
-git clone https://github.com/yourusername/Emotion-Detection-AI.git
+git clone https://github.com/Ramyard2505/Emotion-Detection-AI.git
 ```
 
 ### 2 Navigate to Project Folder
